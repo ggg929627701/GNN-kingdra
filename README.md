@@ -14,4 +14,4 @@ spektral
 # Quick start
 For reproducing the experiments on MNIST datasets , run the following codes.
 
-Clustering with MNIST: python run_exp.py configs/ladder_im_mnist.json
+Clustering with MNIST: python run_exp.py configs/kingdra_ladder_im_mnist.json
